@@ -1,76 +1,65 @@
-# Hi, I'm Nouran 👋
+# Hi I'm Nouran 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Nouran%20Essam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nouran-essam-833a28311/)](https://www.linkedin.com/in/nouran-essam-833a28311/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nouran%20Essam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nouran-essam-833a28311/)](https://www.linkedin.com/in/nouran-essam-833a28311/)
 [![GitHub Badge](https://img.shields.io/badge/-@Nouranessam116-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Nouranessam116)](https://github.com/Nouranessam116)
 [![Gmail Badge](https://img.shields.io/badge/-nouranessam1166-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nouranessam1166@gmail.com)](mailto:nouranessam1166@gmail.com)
 
-Welcome to my GitHub profile!  
-I'm an **Artificial Intelligence student**, aspiring **AI Engineer & Data Analyst**, and a passionate learner who enjoys turning data into insights and ideas into real projects.  
+Welcome to my profile!  
+I'm an **Artificial Intelligence student**, aspiring **AI Engineer & Data Analyst**, and a passionate learner who enjoys working with data, building structured systems, and exploring Generative AI.  
 Currently studying at **Faculty of Computers and Artificial Intelligence – Cairo University** 🎓
 
 ---
 
-## 🌱 A little more about me  
+## Join the Community Word Cloud :cloud: :pencil2:
 
-- 🤖 Interested in **AI, Machine Learning & Generative AI**
-- 📊 Enjoy **Data Analysis & Business Intelligence**
-- 🧠 Love clean architecture, **SOLID principles**, and well-designed systems
-- 👩‍💻 Believe in learning by building & collaborating
-- 🚀 Always open to internships and hands-on experiences
+![](https://img.shields.io/badge/Words%20Added-95-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/Word%20Clouds%20Created-2-48D6FF?labelColor=7D898B)
+![](https://img.shields.io/badge/Total%20Participants-70-AC6EFF?labelColor=7D898B)
+
+### :thought_balloon: [Add a word](https://github.com/Nouranessam116/Nouranessam116/issues/new?title=wordcloud%7Cadd%7CYourWord) to see the word cloud update in real time :rocket:
+
+Add a word related to **AI, Data, or Tech** ✨  
+A new word cloud will be generated automatically.
+
+:star2: Want a different layout?  
+[Regenerate the word cloud](https://github.com/Nouranessam116/Nouranessam116/issues/new?title=wordcloud%7Cshuffle) :game_die:
+
+<div align="center">
+
+## What are you currently excited to learn? 🤖📊✨
+
+<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-75-informational?labelColor=7D898B)
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-55-blueviolet?labelColor=7D898B)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack  
+### 💡 About Me  
 
-**Programming & Development**  
-`Python` `Java` `C++` `HTML` `CSS` `JavaScript` `Django`
+- 🤖 Interested in AI, Machine Learning & Generative AI  
+- 📊 Business Intelligence & Data Analysis  
+- 🧠 Clean code, SOLID principles & system design  
+- 🧩 UML, Data Structures & scalable architectures  
+- 🌱 Continuous learner & community-driven  
+
+---
+
+### 🛠 Tech Stack  
+
+**Languages & Development**  
+Python • Java • C++ • HTML • CSS • JavaScript • Django  
 
 **Data & BI**  
-`SQL` `Power BI` `Tableau` `SSIS` `SSAS` `SSRS`
+SQL • Power BI • Tableau • SSIS • SSAS • SSRS  
 
-**Concepts & Tools**  
-`OOP` `Design Patterns` `Data Structures`  
-`UML` `ETL` `Data Warehousing`  
-`LLM Basics` `RAG Concepts`  
-`Git` `VS Code`
+**Concepts**  
+OOP • Design Patterns • Data Structures • UML  
+ETL • Data Warehousing • LLM Basics • RAG  
 
 ---
 
-## ✨ Featured Experiences  
-
-### 🤖 AI & Data Analysis Intern — *AICE (ALX)*  
-- Applied AI & ML concepts on real-world datasets  
-- Performed statistical analysis to extract insights  
-- Built an AI portfolio using Python & Jupyter  
-- Attended AI & Generative AI conferences  
-
-### 📈 Business Intelligence Projects — *ITI*  
-- Designed Data Warehouses & Star Schemas  
-- Built ETL pipelines using SSIS  
-- Created interactive dashboards with Power BI  
-
-### 🍽 Web Project — *Recipe Management System*  
-- Frontend: HTML & CSS  
-- Backend: Django & Python  
-- Database & API integration  
-- Team-based full-stack development  
-
----
-
-## 📜 Certifications  
-
-- 🧠 Introduction to Generative AI — AWS Academy & Udacity  
-- 🤖 AI & Data Analysis — AICE (ALX)  
-- 📊 Business Intelligence Track — ITI  
-
----
-
-## 🌍 Let’s Connect  
-
-💼 [LinkedIn](https://www.linkedin.com/in/nouran-essam-833a28311/)  
-💻 [GitHub](https://github.com/Nouranessam116)  
-📧 [Email Me](mailto:nouranessam1166@gmail.com)
-
----
-
-✨ *Thanks for stopping by! Feel free to explore my repositories or reach out — I’d love to connect.*
+✨ *Thanks for visiting my GitHub profile!*  
+Feel free to connect on LinkedIn or explore my repositories 💙
