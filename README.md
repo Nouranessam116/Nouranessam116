@@ -9,29 +9,11 @@ I'm an **Artificial Intelligence student**, aspiring **AI Engineer & Data Analys
 Currently studying at **Faculty of Computers and Artificial Intelligence – Cairo University** 🎓
 
 ---
-
-## Join the Community Word Cloud :cloud: :pencil2:
-
-![](https://img.shields.io/badge/Words%20Added-95-brightgreen?labelColor=7D898B)
-![](https://img.shields.io/badge/Word%20Clouds%20Created-2-48D6FF?labelColor=7D898B)
-![](https://img.shields.io/badge/Total%20Participants-70-AC6EFF?labelColor=7D898B)
-
-### :thought_balloon: [Add a word](https://github.com/Nouranessam116/Nouranessam116/issues/new?title=wordcloud%7Cadd%7CYourWord) to see the word cloud update in real time :rocket:
-
-Add a word related to **AI, Data, or Tech** ✨  
-A new word cloud will be generated automatically.
-
-:star2: Want a different layout?  
-[Regenerate the word cloud](https://github.com/Nouranessam116/Nouranessam116/issues/new?title=wordcloud%7Cshuffle) :game_die:
-
 <div align="center">
 
 ## What are you currently excited to learn? 🤖📊✨
 
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-75-informational?labelColor=7D898B)
-![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-55-blueviolet?labelColor=7D898B)
 
 </div>
 
