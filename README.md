@@ -14,8 +14,13 @@ Currently studying at **Faculty of Computers and Artificial Intelligence – Cai
 ## What are you currently excited to do? 🤖📊✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nouranessam116/Nouranessam116/main/Coding.jpg" width="40%">
+  <img 
+    src="https://raw.githubusercontent.com/Nouranessam116/Nouranessam116/main/Coding.jpg"
+    width="40%"
+    height="300"
+  >
 </p>
+
 
 
 </div>
