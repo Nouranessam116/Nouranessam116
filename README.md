@@ -13,7 +13,8 @@ Currently studying at **Faculty of Computers and Artificial Intelligence – Cai
 
 ## What are you currently excited to learn? 🤖📊✨
 
-<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+<img src="https://raw.githubusercontent.com/Nouranessam116/Nouranessam116/main/Coding.png" width="100%">
+
 
 </div>
 
